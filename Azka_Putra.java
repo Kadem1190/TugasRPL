@@ -4,7 +4,7 @@ public class Azka_Putra {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Azka Calculator");
+        System.out.println("Simple Calculator \n Made By Azka X - RPL");
         System.out.println("Enter the first number:");
         double num1 = scanner.nextDouble();
 
