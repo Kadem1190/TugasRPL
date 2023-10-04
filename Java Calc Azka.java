@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Azka_Putra {
+public class JavaCalc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
